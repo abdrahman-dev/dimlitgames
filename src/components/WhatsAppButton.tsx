@@ -41,7 +41,7 @@ export function WhatsAppButton() {
             width: 0,
           },
           hover: {
-            width: 120,
+            width: 230,
           },
         }}
         transition={{
@@ -67,7 +67,7 @@ export function WhatsAppButton() {
             ease: [0.22, 1, 0.36, 1],
           }}
         >
-          Join Us?
+          Build Strange Worlds With Us?
         </motion.span>
       </motion.div>
     </motion.a>

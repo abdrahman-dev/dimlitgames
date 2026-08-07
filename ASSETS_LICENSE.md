@@ -45,7 +45,7 @@ Without express written permission from Dimlit Games, you may not:
 
 For licensing inquiries, permission requests, or collaboration opportunities, please contact:
 
-**Email:** contact@dimlitgames.com
+**Email:** contact@dimlitgames6.com
 
 ---
 

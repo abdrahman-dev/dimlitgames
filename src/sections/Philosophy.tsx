@@ -12,10 +12,11 @@ export function Philosophy() {
           variants={fadeIn}
           className="font-title text-2xl md:text-5xl lg:text-6xl font-bold text-[var(--text)] leading-tight"
         >
-          We don&apos;t create games
+          We don&apos;t make games.
           <br />
-          to fill time.
+          We build worlds.
         </motion.h2>
+
         <motion.p
           initial="hidden"
           whileInView="visible"
@@ -23,9 +24,9 @@ export function Philosophy() {
           variants={fadeIn}
           className="font-title text-xl md:text-4xl lg:text-5xl text-[var(--accent)] mt-6 leading-snug"
         >
-          We create worlds
+          Worlds that stay
           <br />
-          players remember.
+          with you.
         </motion.p>
       </div>
     </section>
